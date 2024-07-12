@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    margin-left: 60px;
+}
+.head h1{
+    margin-left: 210px;
+    margin-top: 95px;
+    position: absolute;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.head p{
+    margin-left: 180px;
+    position: absolute;
+    margin-top: 150px;
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgray;
+}
+.head h4{
+    margin-left: 259px;
+    position: absolute;
+    margin-top: 180px;
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgray;
+}
+.header{
+    margin-left: 830px;
+    position: absolute;
+    top: 70px;
+    margin-left: 900px;
+}
+.header h4{
+    color: darkgray;
+}
+.form{
+    margin-left: 830px;
+    position: absolute;
+    top: 210px;
+}
+.form h6{
+    margin-left: 150px;
+}
+.form button{
+    margin-left: 100px;
+}
+.form h3{
+    margin-left: 65px;
+}
+.icon {
+    margin-left: 67px;
+}
+.form h5{
+    margin-left: 10px;
+}
+.form a{
+    color: rgb(68, 106, 175);
+}
+.form button{
+    background-color: rgb(24, 134, 224);
+    color: white;
+}
+
+
+
